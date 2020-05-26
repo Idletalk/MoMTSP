@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/algorithm.js" line="417" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="836913f4-d0fa-4312-ab33-23999cdf5d9d" name="默认的" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="algorithm.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithm.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="672" column="2" lean-forward="true" selection-start-line="672" selection-start-column="2" selection-end-line="672" selection-end-column="2" />
+              <folding>
+                <element signature="e#1782#1895#0" expanded="false" />
+                <element signature="e#1960#2364#0" expanded="false" />
+                <element signature="n#!!block;n#randomNumber#0" expanded="false" />
+                <element signature="n#!!block;n#Point#0" expanded="false" />
+                <element signature="n#!!block;n#compareObject#0" expanded="false" />
+                <element signature="n#!!block;n#copy#0" expanded="false" />
+                <element signature="n#!!block;n#showPoint#0" expanded="false" />
+                <element signature="n#!!block;n#addPoints#0" expanded="false" />
+                <element signature="n#!!block;n#drawPoints#0" expanded="false" />
+                <element signature="n#!!block;n#drawPoint#0" expanded="false" />
+                <element signature="n#!!block;n#calculatePointAngle#0" expanded="false" />
+                <element signature="n#!!block;n#produceRandomArr#0" expanded="false" />
+                <element signature="e#5166#6032#0" expanded="false" />
+                <element signature="n#!!block;n#redraw#0" expanded="false" />
+                <element signature="n#!!block;n#drawChart#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ADDN</find>
+      <find>show</find>
+      <find>document</find>
+      <find>getNonDominated</find>
+      <find>console.log</find>
+      <find>drawLine</find>
+      <find>getdis</find>
+      <find>randomDriveWay</find>
+      <find>drawPoint</find>
+      <find>drawDots</find>
+      <find>mapping</find>
+      <find>INDIVIDUAL_NUMBER</find>
+      <find>single</find>
+      <find>getDis</find>
+      <find>POPULATION_SIZE</find>
+      <find>console</find>
+      <find>Start</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>addnumber</replace>
+      <replace>drawPoints</replace>
+      <replace>POINT_NUMBER</replace>
+      <replace>balance</replace>
+      <replace>getObjectValue</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../JS/GeneticAlgorithm-TSP-master/css/style.css" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/../m-tsp - 副本 - 副本1/algorithm.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/algorithm.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1476" />
+    <option name="y" value="38" />
+    <option name="width" value="1382" />
+    <option name="height" value="902" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/m-tsp - 副本 - 副本1/index.html" />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="836913f4-d0fa-4312-ab33-23999cdf5d9d" name="默认的" comment="" />
+      <created>1521594025938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521594025938</updated>
+      <workItem from="1521594030673" duration="22418000" />
+      <workItem from="1521679425616" duration="21954000" />
+      <workItem from="1521779790820" duration="12182000" />
+      <workItem from="1521853163004" duration="21498000" />
+      <workItem from="1521941187364" duration="6918000" />
+      <workItem from="1521952938874" duration="465000" />
+      <workItem from="1522025810831" duration="7310000" />
+      <workItem from="1522042946848" duration="6245000" />
+      <workItem from="1522049963627" duration="1121000" />
+      <workItem from="1523238738576" duration="11631000" />
+      <workItem from="1523333616260" duration="22000000" />
+      <workItem from="1523365019374" duration="408000" />
+      <workItem from="1523408291918" duration="16193000" />
+      <workItem from="1523437436948" duration="8999000" />
+      <workItem from="1523495212799" duration="613000" />
+      <workItem from="1523515234190" duration="2107000" />
+      <workItem from="1523535860124" duration="814000" />
+      <workItem from="1523583307275" duration="173000" />
+      <workItem from="1523587243421" duration="1251000" />
+      <workItem from="1523600895566" duration="1469000" />
+      <workItem from="1523603384145" duration="926000" />
+      <workItem from="1523851427538" duration="3975000" />
+      <workItem from="1523857967804" duration="6261000" />
+      <workItem from="1523864245850" duration="236000" />
+      <workItem from="1523865802620" duration="1058000" />
+      <workItem from="1524036700378" duration="11633000" />
+      <workItem from="1524204292492" duration="10163000" />
+      <workItem from="1524275498013" duration="11700000" />
+      <workItem from="1524360445992" duration="29836000" />
+      <workItem from="1524446384869" duration="2242000" />
+      <workItem from="1524449185871" duration="241000" />
+      <workItem from="1524451487476" duration="2145000" />
+      <workItem from="1524551757237" duration="6805000" />
+      <workItem from="1524744791809" duration="117000" />
+      <workItem from="1525481453250" duration="7283000" />
+      <workItem from="1525650814280" duration="7288000" />
+      <workItem from="1525658513627" duration="2553000" />
+      <workItem from="1525760853059" duration="1863000" />
+      <workItem from="1525764276491" duration="11000" />
+      <workItem from="1525765768459" duration="1230000" />
+      <workItem from="1526173401450" duration="15992000" />
+      <workItem from="1526259973613" duration="9655000" />
+      <workItem from="1526995346695" duration="1202000" />
+      <workItem from="1527039723954" duration="2514000" />
+      <workItem from="1527042818094" duration="2347000" />
+      <workItem from="1527058679861" duration="1967000" />
+      <workItem from="1527123130666" duration="16272000" />
+      <workItem from="1527225831670" duration="2284000" />
+      <workItem from="1527386650547" duration="3446000" />
+      <workItem from="1527466880230" duration="17168000" />
+      <workItem from="1527512085081" duration="2418000" />
+      <workItem from="1527559654512" duration="5730000" />
+      <workItem from="1527594813995" duration="893000" />
+      <workItem from="1529721740079" duration="385000" />
+      <workItem from="1529722253077" duration="315000" />
+      <workItem from="1529733242446" duration="8556000" />
+      <workItem from="1529802444464" duration="3326000" />
+      <workItem from="1529806453653" duration="6704000" />
+      <workItem from="1529818577648" duration="349000" />
+      <workItem from="1529821064226" duration="237000" />
+      <workItem from="1529821364514" duration="31000" />
+      <workItem from="1529821527295" duration="13000" />
+      <workItem from="1529827546931" duration="5872000" />
+      <workItem from="1529909604194" duration="2008000" />
+      <workItem from="1530254596728" duration="5683000" />
+      <workItem from="1530347462288" duration="2125000" />
+      <workItem from="1530673090628" duration="72000" />
+      <workItem from="1530874330436" duration="619000" />
+      <workItem from="1531574939915" duration="642000" />
+      <workItem from="1531616159038" duration="9271000" />
+      <workItem from="1531629095966" duration="1895000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="403326000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1476" y="38" width="1382" height="902" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971016" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52090394" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971016" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261851" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="162" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JavascriptDebugType">
+        <watch expression="individuals" language="JavaScript" />
+        <watch expression="comp_object" language="JavaScript" />
+        <watch expression="temps" language="JavaScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>temps</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>comp_object</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>individuals</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>individuals</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VRP-js/untitled3完整流程/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14220">
+          <caret line="474" column="9" lean-forward="true" selection-start-line="474" selection-start-column="9" selection-end-line="474" selection-end-column="9" />
+          <folding>
+            <element signature="e#1782#1895#0" expanded="false" />
+            <element signature="e#1960#2364#0" expanded="false" />
+            <element signature="n#!!block;n#randomNumber#0" expanded="false" />
+            <element signature="n#!!block;n#Point#0" expanded="false" />
+            <element signature="n#!!block;n#compareObject#0" expanded="false" />
+            <element signature="n#!!block;n#copy#0" expanded="false" />
+            <element signature="n#!!block;n#showPoint#0" expanded="false" />
+            <element signature="n#!!block;n#addPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoint#0" expanded="false" />
+            <element signature="n#!!block;n#calculatePointAngle#0" expanded="false" />
+            <element signature="n#!!block;n#produceRandomArr#0" expanded="false" />
+            <element signature="e#5166#6032#0" expanded="false" />
+            <element signature="n#!!block;n#redraw#0" expanded="false" />
+            <element signature="n#!!block;n#drawChart#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3330">
+          <caret line="253" column="52" lean-forward="true" selection-start-line="253" selection-start-column="52" selection-end-line="253" selection-end-column="52" />
+          <folding>
+            <element signature="e#1782#1895#0" expanded="false" />
+            <element signature="e#1960#2364#0" expanded="false" />
+            <element signature="n#!!block;n#randomNumber#0" expanded="false" />
+            <element signature="n#!!block;n#Point#0" expanded="false" />
+            <element signature="n#!!block;n#compareObject#0" expanded="false" />
+            <element signature="n#!!block;n#copy#0" expanded="false" />
+            <element signature="n#!!block;n#showPoint#0" expanded="false" />
+            <element signature="n#!!block;n#addPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoint#0" expanded="false" />
+            <element signature="n#!!block;n#calculatePointAngle#0" expanded="false" />
+            <element signature="n#!!block;n#produceRandomArr#0" expanded="false" />
+            <element signature="e#5166#6032#0" expanded="false" />
+            <element signature="n#!!block;n#redraw#0" expanded="false" />
+            <element signature="n#!!block;n#drawChart#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7230">
+          <caret line="241" column="5" lean-forward="false" selection-start-line="241" selection-start-column="5" selection-end-line="241" selection-end-column="5" />
+          <folding>
+            <element signature="e#1782#1895#0" expanded="false" />
+            <element signature="e#1960#2364#0" expanded="false" />
+            <element signature="n#!!block;n#randomNumber#0" expanded="false" />
+            <element signature="n#!!block;n#Point#0" expanded="false" />
+            <element signature="n#!!block;n#compareObject#0" expanded="false" />
+            <element signature="n#!!block;n#copy#0" expanded="false" />
+            <element signature="n#!!block;n#showPoint#0" expanded="false" />
+            <element signature="n#!!block;n#addPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoint#0" expanded="false" />
+            <element signature="n#!!block;n#calculatePointAngle#0" expanded="false" />
+            <element signature="n#!!block;n#produceRandomArr#0" expanded="false" />
+            <element signature="e#5166#6032#0" expanded="false" />
+            <element signature="n#!!block;n#redraw#0" expanded="false" />
+            <element signature="n#!!block;n#drawChart#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6900">
+          <caret line="230" column="32" lean-forward="false" selection-start-line="230" selection-start-column="32" selection-end-line="230" selection-end-column="32" />
+          <folding>
+            <element signature="e#1782#1895#0" expanded="false" />
+            <element signature="e#1960#2364#0" expanded="false" />
+            <element signature="n#!!block;n#randomNumber#0" expanded="false" />
+            <element signature="n#!!block;n#Point#0" expanded="false" />
+            <element signature="n#!!block;n#compareObject#0" expanded="false" />
+            <element signature="n#!!block;n#copy#0" expanded="false" />
+            <element signature="n#!!block;n#showPoint#0" expanded="false" />
+            <element signature="n#!!block;n#addPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoint#0" expanded="false" />
+            <element signature="n#!!block;n#calculatePointAngle#0" expanded="false" />
+            <element signature="n#!!block;n#produceRandomArr#0" expanded="false" />
+            <element signature="e#5166#6032#0" expanded="false" />
+            <element signature="n#!!block;n#redraw#0" expanded="false" />
+            <element signature="n#!!block;n#drawChart#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8520">
+          <caret line="284" column="1" lean-forward="true" selection-start-line="284" selection-start-column="1" selection-end-line="284" selection-end-column="1" />
+          <folding>
+            <element signature="e#1782#1895#0" expanded="false" />
+            <element signature="e#1960#2364#0" expanded="false" />
+            <element signature="n#!!block;n#randomNumber#0" expanded="false" />
+            <element signature="n#!!block;n#Point#0" expanded="false" />
+            <element signature="n#!!block;n#compareObject#0" expanded="false" />
+            <element signature="n#!!block;n#copy#0" expanded="false" />
+            <element signature="n#!!block;n#showPoint#0" expanded="false" />
+            <element signature="n#!!block;n#addPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoint#0" expanded="false" />
+            <element signature="n#!!block;n#calculatePointAngle#0" expanded="false" />
+            <element signature="n#!!block;n#produceRandomArr#0" expanded="false" />
+            <element signature="e#5166#6032#0" expanded="false" />
+            <element signature="n#!!block;n#redraw#0" expanded="false" />
+            <element signature="n#!!block;n#drawChart#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8520">
+          <caret line="284" column="46" lean-forward="true" selection-start-line="284" selection-start-column="46" selection-end-line="284" selection-end-column="46" />
+          <folding>
+            <element signature="e#1782#1895#0" expanded="false" />
+            <element signature="e#1960#2364#0" expanded="false" />
+            <element signature="n#!!block;n#randomNumber#0" expanded="false" />
+            <element signature="n#!!block;n#Point#0" expanded="false" />
+            <element signature="n#!!block;n#compareObject#0" expanded="false" />
+            <element signature="n#!!block;n#copy#0" expanded="false" />
+            <element signature="n#!!block;n#showPoint#0" expanded="false" />
+            <element signature="n#!!block;n#addPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoint#0" expanded="false" />
+            <element signature="n#!!block;n#calculatePointAngle#0" expanded="false" />
+            <element signature="n#!!block;n#produceRandomArr#0" expanded="false" />
+            <element signature="e#5166#6032#0" expanded="false" />
+            <element signature="n#!!block;n#redraw#0" expanded="false" />
+            <element signature="n#!!block;n#drawChart#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VRP-js/untitled3完整流程/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8460">
+          <caret line="282" column="28" lean-forward="true" selection-start-line="282" selection-start-column="28" selection-end-line="282" selection-end-column="28" />
+          <folding>
+            <element signature="e#1782#1895#0" expanded="false" />
+            <element signature="e#1960#2364#0" expanded="false" />
+            <element signature="n#!!block;n#randomNumber#0" expanded="false" />
+            <element signature="n#!!block;n#Point#0" expanded="false" />
+            <element signature="n#!!block;n#compareObject#0" expanded="false" />
+            <element signature="n#!!block;n#copy#0" expanded="false" />
+            <element signature="n#!!block;n#showPoint#0" expanded="false" />
+            <element signature="n#!!block;n#addPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoint#0" expanded="false" />
+            <element signature="n#!!block;n#calculatePointAngle#0" expanded="false" />
+            <element signature="n#!!block;n#produceRandomArr#0" expanded="false" />
+            <element signature="e#5166#6032#0" expanded="false" />
+            <element signature="n#!!block;n#redraw#0" expanded="false" />
+            <element signature="n#!!block;n#drawChart#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4710">
+          <caret line="157" column="42" lean-forward="false" selection-start-line="157" selection-start-column="42" selection-end-line="157" selection-end-column="42" />
+          <folding>
+            <element signature="e#1782#1895#0" expanded="false" />
+            <element signature="e#1960#2364#0" expanded="false" />
+            <element signature="n#!!block;n#randomNumber#0" expanded="false" />
+            <element signature="n#!!block;n#Point#0" expanded="false" />
+            <element signature="n#!!block;n#compareObject#0" expanded="false" />
+            <element signature="n#!!block;n#copy#0" expanded="false" />
+            <element signature="n#!!block;n#showPoint#0" expanded="false" />
+            <element signature="n#!!block;n#addPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoint#0" expanded="false" />
+            <element signature="n#!!block;n#calculatePointAngle#0" expanded="false" />
+            <element signature="n#!!block;n#produceRandomArr#0" expanded="false" />
+            <element signature="e#5166#6032#0" expanded="false" />
+            <element signature="n#!!block;n#redraw#0" expanded="false" />
+            <element signature="n#!!block;n#drawChart#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3270">
+          <caret line="109" column="56" lean-forward="false" selection-start-line="109" selection-start-column="56" selection-end-line="109" selection-end-column="56" />
+          <folding>
+            <element signature="e#1782#1895#0" expanded="false" />
+            <element signature="e#1960#2364#0" expanded="false" />
+            <element signature="n#!!block;n#randomNumber#0" expanded="false" />
+            <element signature="n#!!block;n#Point#0" expanded="false" />
+            <element signature="n#!!block;n#compareObject#0" expanded="false" />
+            <element signature="n#!!block;n#copy#0" expanded="false" />
+            <element signature="n#!!block;n#showPoint#0" expanded="false" />
+            <element signature="n#!!block;n#addPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoint#0" expanded="false" />
+            <element signature="n#!!block;n#calculatePointAngle#0" expanded="false" />
+            <element signature="n#!!block;n#produceRandomArr#0" expanded="false" />
+            <element signature="e#5166#6032#0" expanded="false" />
+            <element signature="n#!!block;n#redraw#0" expanded="false" />
+            <element signature="n#!!block;n#drawChart#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <element signature="e#1782#1895#0" expanded="false" />
+            <element signature="e#1960#2364#0" expanded="false" />
+            <element signature="n#!!block;n#randomNumber#0" expanded="false" />
+            <element signature="n#!!block;n#Point#0" expanded="false" />
+            <element signature="n#!!block;n#compareObject#0" expanded="false" />
+            <element signature="n#!!block;n#copy#0" expanded="false" />
+            <element signature="n#!!block;n#showPoint#0" expanded="false" />
+            <element signature="n#!!block;n#addPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoint#0" expanded="false" />
+            <element signature="n#!!block;n#calculatePointAngle#0" expanded="false" />
+            <element signature="n#!!block;n#produceRandomArr#0" expanded="false" />
+            <element signature="e#5166#6032#0" expanded="false" />
+            <element signature="n#!!block;n#redraw#0" expanded="false" />
+            <element signature="n#!!block;n#drawChart#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JS/buttons.css" />
+    <entry file="file://$PROJECT_DIR$/../JS/GeneticAlgorithm-TSP-master/src/utils.js" />
+    <entry file="file://$PROJECT_DIR$/../JS/GeneticAlgorithm-TSP-master/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/../JS/GeneticAlgorithm-TSP-master/index.html" />
+    <entry file="file://$PROJECT_DIR$/../VRP交/VRP改/VRP/index.html" />
+    <entry file="file://$PROJECT_DIR$/../VRP交/VRP改/VRP/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/../VRP-js/untitled3完整流程/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/../GeneticAlgorithm-TSP-master/src/algorithm.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/echarts.min.js" />
+    <entry file="file://$PROJECT_DIR$/../m-tsp - 副本 - 副本1/algorithm.js" />
+    <entry file="file://$USER_HOME$/WebstormProjects/VRP交/VRP改/VRP/src/main.js" />
+    <entry file="file://$USER_HOME$/WebstormProjects/untitled/battleship.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15084" column="17" lean-forward="false" selection-start-line="15084" selection-start-column="17" selection-end-line="15084" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../m-tsp带图表/algorithm.js" />
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/echarts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="38626" column="8" lean-forward="false" selection-start-line="38626" selection-start-column="8" selection-end-line="38626" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../局部搜索 m-tsp minsun min(max-min)灾灭无变化/algorithm.js" />
+    <entry file="file://$PROJECT_DIR$/../对比/2个目标52点22000代--前沿局部搜索--灾灭前沿--随机生成点 (3).txt" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="672" column="2" lean-forward="true" selection-start-line="672" selection-start-column="2" selection-end-line="672" selection-end-column="2" />
+          <folding>
+            <element signature="e#1782#1895#0" expanded="false" />
+            <element signature="e#1960#2364#0" expanded="false" />
+            <element signature="n#!!block;n#randomNumber#0" expanded="false" />
+            <element signature="n#!!block;n#Point#0" expanded="false" />
+            <element signature="n#!!block;n#compareObject#0" expanded="false" />
+            <element signature="n#!!block;n#copy#0" expanded="false" />
+            <element signature="n#!!block;n#showPoint#0" expanded="false" />
+            <element signature="n#!!block;n#addPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoints#0" expanded="false" />
+            <element signature="n#!!block;n#drawPoint#0" expanded="false" />
+            <element signature="n#!!block;n#calculatePointAngle#0" expanded="false" />
+            <element signature="n#!!block;n#produceRandomArr#0" expanded="false" />
+            <element signature="e#5166#6032#0" expanded="false" />
+            <element signature="n#!!block;n#redraw#0" expanded="false" />
+            <element signature="n#!!block;n#drawChart#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

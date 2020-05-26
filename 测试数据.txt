@@ -1,0 +1,7 @@
+eil51 m=7;
+
+berlin52 m=5; berlin52 m=7;
+     
+eil76 m=3;   eil76 m=7;
+
+rat99 m=7;////////

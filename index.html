@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Genetic Algorithm for M-TSP</title>
+    <script src="./echarts.js"></script>
+    <script src="./debugout.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div>
+    <header>
+        <h1>Genetic Algorithm for M-TSP</h1>
+    </header>
+    <div>
+        <input type="file" id="local_file">
+        <button id="draw" class="ButtonGroup">show</button>
+    </div>
+    <div id="ButtonGroup">
+        <button id="RandomAdd">add more 20 points</button>
+        <button id="Eliminate">eliminate all points</button>
+        <button id="Start">start the iteration</button>
+        <button id="Stop">stop the iteration</button>
+        <button id="GetOutput">download current log</button>
+    </div>
+        <div >
+        <span id="textShow">Here are 0 points</span>
+        <span id="xyCoordinates"></span></div>
+        <canvas id="drawCanvas" width="880" height="770"  style="border:2px solid #c3c3c3;"></canvas>
+        <div id="char1" style="width: 600px;height:400px; display: inline-block"></div>
+        <div id="char2" style="width: 600px;height:400px;  display: inline-block"></div>
+    </div>
+    <script src="algorithm.js"></script>
+</body>
+</html>

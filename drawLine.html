@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Genetic Algorithm for M-TSP</title>
+    <script src="./echarts.js"></script>
+    <script src="./debugout.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div>
+        <header>
+            <h1>Genetic Algorithm for M-TSP</h1>
+        </header>
+        <div>
+            <input type="file" id="local_file" onchange="showPoint()">
+            <span id="textShow">Here are 0 points</span>
+            <span id="xyCoordinates"></span>
+        </div>
+        <div>
+            <input type="text" id="individual" style="width: 700px">
+            <button id="draw" class="ButtonGroup">show</button>
+        </div>
+        <canvas id="drawCanvas" width="880" height="770" style="border:2px solid #c3c3c3;"></canvas>
+    </div>
+    <script src="draw.js"></script>
+</body>
+
+</html>
